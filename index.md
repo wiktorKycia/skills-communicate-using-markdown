@@ -12,3 +12,8 @@ The code snippet
 ``` python
 print("hello world!")
 ```
+
+TODO list:
+- [x] create a repo
+- [x] add license
+- [ ] write a reasonable readme
