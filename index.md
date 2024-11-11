@@ -4,3 +4,6 @@
 #### It is fun
 ##### Although I already know markdown
 ###### Anyway
+
+This is a director of my school
+![Mamy nadmiar kandydatów](https://www.zsk.poznan.pl/wp-content/uploads/2019/05/ryszard-pyssa.jpg)
